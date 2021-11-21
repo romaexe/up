@@ -1,9 +1,9 @@
 .box{
-	background: url(\rem.png);
+	background: url(/rem.png);
 }
 
 body{
-  background: url("\rem.png");
+  background: url("/rem.png");
   height: 2000px;
   background-repeat: no-repeat;
   background-position: center;
